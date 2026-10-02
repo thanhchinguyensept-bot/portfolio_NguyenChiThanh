@@ -1,0 +1,7 @@
+# Ignore large raw video
+video_diemchau_grandworld.mp4
+video_compressed.mp4
+
+# OS generated files
+.DS_Store
+*.tmp
